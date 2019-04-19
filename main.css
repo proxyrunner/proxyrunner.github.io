@@ -1,13 +1,14 @@
+@import
 /*
  * # id="one"
  * . class="two" 
  * */
 
 /*GOOGLE FONT*/
+@import url('https://fonts.googleapis.com/css?family=Charm|Raleway|Staatliches');
 font-family: 'Charm', cursive;
 font-family: 'Raleway', sans-serif;
 font-family: 'Staatliches', cursive;
-
 /*CSS Reset*/
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -53,30 +54,26 @@ table {
 	border-spacing: 0;
 }
 
-/*BEGIN PAGE STYLING*/
-/* BEGIN CLASSES */
-.base{	
-        font-family: "Courier New"; 
-	font-size:75%;
-}
-.article{	       
-	margin: 5em; 
-        padding: 2em; 
-        border: 1em; 
-        font-size: 100%; 
-    	font-family: 'Raleway', sans-serif;
-        vertical-align: baseline; 
-}
+/*** BEGIN PAGE STYLING ***/
 
 
 /* START IDs */
 
 #quotation{
-	font-family:'Charm', cursive ;
+	font-family:'Charm',;
 }
 #article_title{
     	font-family: 'Staatliches', cursive;
-        font-size: 100%; 
+        font-size: 1em;
         vertical-align: baseline; 
 }
 
+
+
+/* BEGIN CLASSES */
+.base{	
+    margin: 2em; 
+    padding: 2em; 
+    border: 1em; 
+    font-family: "Courier New"; 
+	font-size:2em;
