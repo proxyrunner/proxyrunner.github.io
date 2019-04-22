@@ -34,3 +34,21 @@ font-family: 'Staatliches', cursive;
     font-family: "Courier New"; 
 	font-size:2em;
 }
+
+/* START CodePens 
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/* END CodePens */
+
