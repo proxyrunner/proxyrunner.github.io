@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
+<urlset>
 <url>
+	<loc>
 	xmlns="https://www.gil-ryan.github.io/"
-      xmlns:xsi="https://www.gil-ryan.github.io/"
-      xsi:schemaLocation="https://www.gil-ryan.github.io/">
-</loc>
+	xmlns:xsi="https://www.gil-ryan.github.io/"
+	xsi:schemaLocation="https://www.gil-ryan.github.io/">
+	</loc>
 </url>
-   <url>
-
-      <loc>https://gil-ryan.github.io/index.html</loc>
+<url>
+	<loc>https://gil-ryan.github.io/index.html</loc>
 	<changefreq>weekly</changefreq>
-
-      <changefreq>weekly</changefreq>
-
-   </url>
+</url>
 </urlset>
