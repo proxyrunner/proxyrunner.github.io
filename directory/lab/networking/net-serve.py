@@ -52,14 +52,14 @@ class main(Frame):
      
       entryText=StringVar(master)
       entryText.set("")
-      self.ipAddress=Entry(rightColumn,textvariable=entryText,width = 5)
-      self.ipAddress.pack(side="top")
-      self.ipAddress=Entry(rightColumn,textvariable=entryText,width = 5)
-      self.ipAddress.pack(side="top")
-      self.ipAddress=Entry(rightColumn,textvariable=entryText,width = 5)
-      self.ipAddress.pack(side="top")
-      self.ipAddress=Entry(rightColumn,textvariable=entryText,width = 5)
-      self.ipAddress.pack(side="top")
+      self.octet1=Entry(rightColumn,textvariable=entryText,width = 5)
+      self.octet1.pack(side="top")
+      self.octet2=Entry(rightColumn,textvariable=entryText,width = 5)
+      self.octet2.pack(side="top")
+      self.octet3=Entry(rightColumn,textvariable=entryText,width = 5)
+      self.octet3.pack(side="top")
+      self.octet4=Entry(rightColumn,textvariable=entryText,width = 5)
+      self.octet4.pack(side="top")
      
       self.colorLabel=Label(rightColumn, text="Select a Script:")
       self.colorLabel.pack(fill=X)
@@ -89,7 +89,7 @@ class main(Frame):
    def showInfo(self):
       toplevel = Toplevel(self.master, bg="white")
       toplevel.transient(self.master)
-      toplevel.iconbitmap(default='favicon.ico')
+      # toplevel.iconbitmap(default='favicon.ico')
       toplevel.geometry("250x200") # widthxheight
       toplevel.title("About the Author")
       Label(toplevel, text="This script was created by Gilbert Salas\nLast Update: May 2019\n",
