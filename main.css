@@ -22,14 +22,18 @@ font-family: 'Staatliches', cursive;
 #article_title{
         align-content: center;
     	font-family: 'Staatliches', cursive;
-        font-size: 2em;
+        font-size: 1.5em;
         vertical-align: baseline; 
 }
 /* BEGIN CLASSES */
+.code{
+	font-size:.5em;
+}
 .base{	
     margin: 2em; 
     padding: 2em; 
     border: 1em; 
-    font-family: "Courier New"; 
+    font-family: "Courier New";
 	font-size:2em;
 }
+
