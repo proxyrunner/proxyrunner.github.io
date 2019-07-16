@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EIGRP Routing</title>
+<link rel="stylesheet" type="text/css" href="../../../main.css" media="screen"/>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Charm|Raleway|Staatliches');
+<script src="../../main.js"></script> 
+<canvas class="js-draw"></canvas>
+</style>
+</head>
+
+<body>
+<div class="base">
+<a h1 id="base" href="../../../index.html">gil-ryan/</h1></a>
+<div class="article"><h1 id="article_title"><br>- July 16th 2019 - </h1>
+<br>
+<img src="../../img/metric-manipulation-erigrp.PNG" alt="EIGRP Route Workbook" height="250px" width="700px">
+<div class="code">
+<p>
+<h2>Task</h2>
+In the topology diagram, notice that router R1 now has a Loopback interface. In this task you will be advertising that loopback into EIGRP, and then manipulating the EIGRP distance on Router-4 so that it load-balances traffic to this new network across both the Serial and FastEthernet interfaces of router R4.
+
+	<h3>Note:</h3>
+<p>If you are doing this lab on your own equipment, ensure that the Bandwidth or clockrate of your Serial interface on R4 connecting to R1 is set to 128 Kbps.
+
+	<p>- On router R1, add a new "network" command (along with a specific wildcard mask) to your EIGRP process so that the network on your Loopback0 interface is advertised into EIGRP.</p>	
+	<p>- View the IP routing table on router R4 and verify that the preferred path to reach this new subnet is via the FastEthernet link leading upstream to router R2.</p>	
+	<p>- On router R4, view the EIGRP Topology table, specifically for network 111.111.111.0/29, and notice the difference between the current Feasible Distance and the total Distance of the path to this same network via the Serial link.</p>	
+</p>	
+<h3>Answer this question:<h3> If your objective were to load-balance packets destined to 111.111.111.0 equally across your FastEthernet and Serial interfaces on router R4, do you think there would be a way, by changing JUST the bandwidth or JUST the delay of interface Serial1/3 (not both) on R4, that you could achieve that goal?
+
+	- If you answered "yes": What value would you select as the new bandwidth, or the new delay?
+
+If you answered "no": Why do you consider this impossible?
+<p>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>
