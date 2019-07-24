@@ -14,7 +14,7 @@ or the applicable URL provided on the flyer accompanying the IOS-XE
 software.
 ROM: IOS-XE ROMMON
 BOOTLDR: CAT3K_CAA Boot Loader (CAT3K_CAA-HBOOT-M) Version 3.58, RELEASE SOFTWARE (P)
-nw-s-330com-CL37-b uptime is 2 years, 14 weeks, 14 hours, 4 minutes
+[OMIT] uptime is 2 years, 14 weeks, 14 hours, 4 minutes
 Uptime for this control processor is 2 years, 14 weeks, 14 hours, 8 minutes
 System returned to ROM by Power Failure
 System restarted at 19:27:13 EDT Tue Mar 21 2017
@@ -51,7 +51,7 @@ Processor board ID FOC2034X0F2
 0K bytes of  at webui:.
 Base Ethernet MAC Address          : 00:59:dc:03:8f:00
 Motherboard Assembly Number        : 73-15799-08
-Motherboard Serial Number          : FOC20337CKV
+Motherboard Serial Number          : [OMIT]
 Model Revision Number              : AB0
 Motherboard Revision Number        : A0
 Model Number                       : WS-C3850-48U
@@ -65,9 +65,9 @@ Switch 02
 Switch uptime                      : 2 years, 14 weeks, 14 hours, 30 minutes 
 Base Ethernet MAC Address          : 00:b0:e1:bb:f1:00
 Motherboard Assembly Number        : 73-15799-08
-Motherboard Serial Number          : FOC203425JV
+Motherboard Serial Number          : [OMIT]
 Model Revision Number              : AB0
 Motherboard Revision Number        : A0
 Model Number                       : WS-C3850-48U
-System Serial Number               : FOC2033U2BP
+System Serial Number               : [OMIT]
 Configuration register is 0x102
