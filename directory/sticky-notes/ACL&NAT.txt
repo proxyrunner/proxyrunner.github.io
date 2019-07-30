@@ -1,0 +1,115 @@
+Data is the water and I'm the plumber
+
+complete sections of completed study notes for github upload
+ip nat source static tcp 192.168.1.50 80 209.165.201.1 8080 extendable
+
+R1#show ip nat  ?
+  nvi           NVI information
+  statistics    Translation statistics
+  translations  Translation entries
+
+R1(config)#ip access-list ?
+  extended    Extended Access List
+  helper      Access List acts on helper-address
+  log-update  Control access list log updates
+  logging     Control access list logging
+  resequence  Resequence Access List
+  standard    Standard Access List
+
+R1(config)#ip access-list extended
+R1(config)#ip access-list extended ?
+  <100-199>    Extended IP access-list number
+  <2000-2699>  Extended IP access-list number (expanded range)
+  WORD         Access-list name
+
+R1(config)#ip nat ?
+  Stateful           Stateful NAT configuration commands
+  create             Create flow entries
+  inside             Inside address translation
+  log                NAT Logging
+  outside            Outside address translation
+  piggyback-support  NAT Piggybacking Support
+  pool               Define pool of addresses
+  portmap            Define portmap of portranges
+  service            Special translation for application using non-standard
+                     port
+  sip-sbc            SIP Session Border Controller commands
+  source             Source address translation
+  translation        NAT translation entry configuration
+
+R1(config)#ip nat source static ?
+  A.B.C.D  Source local IP address
+  esp      IPSec-ESP (Tunnel mode) support
+  network  Subnet translation
+  tcp      Transmission Control Protocol
+  udp      User Datagram Protocol
+
+R1(config-ext-nacl)#exit
+R1(config)#ip nat
+R1(config)#ip nat ?
+  Stateful           Stateful NAT configuration commands
+  create             Create flow entries
+  inside             Inside address translation
+  log                NAT Logging
+  outside            Outside address translation
+  piggyback-support  NAT Piggybacking Support
+  pool               Define pool of addresses
+  portmap            Define portmap of portranges
+  service            Special translation for application using non-standard
+                     port
+  sip-sbc            SIP Session Border Controller commands
+  source             Source address translation
+  translation        NAT translation entry configuration
+
+R1(config)#ip nat insid
+R1(config)#ip nat inside ?
+  destination  Destination address translation
+  source       Source address translation
+
+R1(config)#ip nat inside source
+R1(config)#ip nat inside source ?
+  list       Specify access list describing local addresses
+  route-map  Specify route-map
+  static     Specify static local->global mapping
+
+R1(config)#ip nat inside source stati
+R1(config)#ip nat inside source static ?
+  A.B.C.D  Inside local IP address
+  esp      IPSec-ESP (Tunnel mode) support
+  network  Subnet translation
+  tcp      Transmission Control Protocol
+  udp      User Datagram Protocol
+
+R1(config)#ip nat inside source static 10.55.1.254 ?
+  A.B.C.D    Inside global IP address
+  interface  Specify interface for global address
+
+R1(config)#ip nat inside source static 10.55.1.254 interface  ?
+  Async              Async interface
+  Auto-Template      Auto-Template interface
+  BVI                Bridge-Group Virtual Interface
+  CDMA-Ix            CDMA Ix interface
+  CTunnel            CTunnel interface
+  Dialer             Dialer interface
+  Ethernet           IEEE 802.3
+  FastEthernet       FastEthernet IEEE 802.3
+  GMPLS              MPLS interface
+  GigabitEthernet    GigabitEthernet IEEE 802.3z
+  LISP               Locator/ID Separation Protocol Virtual Interface
+  LongReachEthernet  Long-Reach Ethernet interface
+  Loopback           Loopback interface
+  MFR                Multilink Frame Relay bundle interface
+  Multilink          Multilink-group interface
+  Null               Null interface
+  Port-channel       Ethernet Channel of interfaces
+  Tunnel             Tunnel interface
+  Vif                PGM Multicast Host interface
+  Virtual-PPP        Virtual PPP interface
+  Virtual-Template   Virtual Template interface
+  Virtual-TokenRing  Virtual TokenRing
+  vmi                Virtual Multipoint Interface
+
+R1(config)#ip nat inside source static 10.55.1.254 interface  
+
+ip nat inside source static 10.55.1.254 interface gigabitEthernet 0/0
+no ip nat inside source static 10.55.1.254 interface gigabitEthernet 0/0
