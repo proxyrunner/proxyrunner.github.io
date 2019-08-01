@@ -2,7 +2,7 @@
 ## This is currently a work-in-progress, and will continuously have content added.
 
 
-### Cheat sheet references
+## pencil2: Cheat sheet references
 ```Java
 /*
 Definitely not sure if I initalized anything correctly
