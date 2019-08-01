@@ -27,14 +27,18 @@ return 0}
 ```
 
 ## :lock: Cryptography
-
-
+⋅⋅*
+⋅⋅*
+⋅⋅*
 ## :heavy_division_sign: Mathematics
-
-
+⋅⋅*
+⋅⋅*
+⋅⋅*
 ## :trollface: Programming
-
-
+⋅⋅*
+⋅⋅*
+⋅⋅*
 ## :interrobang: Programs
-
-
+⋅⋅*
+⋅⋅*
+⋅⋅*
