@@ -1,8 +1,9 @@
-# Repository for my personal website
-## This is currently a work-in-progress, and will continuously have content added.
+# Welcome!
 
+### Work... in... progress
+This is currently a work-in-progress, and will continuously have content added.
 
-## :pencil2: Cheat sheet references
+## :pencil2: Cheat Sheet & References
 ```Java
 /*
 Definitely not sure if I initalized anything correctly
@@ -21,3 +22,5 @@ int main(){
 return 0}
 
 ```
+
+## :lock: Cryptography
