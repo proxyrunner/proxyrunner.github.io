@@ -3,8 +3,7 @@
 ### :warning: Work... in... progress...
 Thanks for stopping by. This is currently a work-in-progress, and will continuously have content added.
 
-<a href="https://github.com/gil-ryan"><img src="https://badgen.net/badge/github/gil-ryan/red?icon=github"></a>  
-<a href="https://gil-ryab.github.io"><img src="https://badgen.net/badge/personal-website/gil-ryan/red"></a>
+<a href="https://github.com/gil-ryan"><img src="https://badgen.net/badge/github/gil-ryan/red?icon=github"></a><a href="https://gil-ryab.github.io"><img src="https://badgen.net/badge/personal-website/gil-ryan/red"></a>
 
 
 ## :pencil2: Cheat Sheet & References
