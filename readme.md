@@ -5,7 +5,6 @@ Thanks for stopping by. This is currently a work-in-progress, and will continuou
 
 <a href="https://github.com/gil-ryan"><img src="https://badgen.net/badge/github/gil-ryan/red?icon=github"></a><a href="https://gil-ryab.github.io"><img src="https://badgen.net/badge/personal-website/gil-ryan/red"></a>
 
-
 ## :pencil2: Cheat Sheet & References
 ```Java
 /*
@@ -16,7 +15,6 @@ public class DidINameThisCorrectly{}
 }
 
 ```
-
 ```C++
 #include iostream
 using namespace std;
@@ -25,7 +23,6 @@ int main(){
 return 0}
 
 ```
-
 ## :lock: Cryptography
 *
 *
@@ -34,7 +31,8 @@ return 0}
 *
 *
 *
-## :trollface: Programming
+## Computer Science
+###:trollface: Programming
 * 
 *
 *
