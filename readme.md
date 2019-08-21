@@ -7,10 +7,10 @@ Thanks for stopping by. This is currently a work-in-progress, and will continuou
 
 | &nbsp;Cheat Sheet &nbsp; |  Cryptography   | &nbsp;Mathematics&nbsp;                      |Programming                                  | &nbsp;&nbsp;Programs&nbsp;&nbsp;        |&nbsp;&nbsp;&nbsp;Other&nbsp;&nbsp;&nbsp;|
 |--------------------------|----------------:|---------------------------------------------:|--------------------------------------------:|----------------------------------------:|----------------------------------------:|
-|    [:cloud:](#cloud)     | [:lock:](#lock  |[:heavy_division_sign:](#heavy_division_sign) |     [:trollface:](#trollface)               |        [:interrobang:](#interrobang)    |      [:floppy_disk:](#floppy_disk)      |
+|    [:cloud:](#cloud)     | [:lock:](#lock)  |[:heavy_division_sign:](#heavy_division_sign) |     [:trollface:](#trollface)               |        [:interrobang:](#interrobang)    |      [:floppy_disk:](#floppy_disk)      |
 
 
-## :pencil2: Cheat Sheet & References
+## :pencil2: Cheat Sheet
 ```Java
 /*
 Definitely not sure if I initalized anything correctly
