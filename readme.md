@@ -8,7 +8,7 @@ Thanks for stopping by. This is currently a work-in-progress, and will continuou
 
 | &nbsp;Programming&nbsp;                    | &nbsp;Programs&nbsp;                     | &nbsp;Cryptography&nbsp;                      | &nbsp;Mathematics&nbsp;                                         |
 |--------------------------------------------|------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------|
-|    [:computer:](#computer-programming)     |    [:interrobang:](#interrobang-programs)|    [:locl:](#lock-cryptography)               |    [:heavy_division_sign):](#heavy_division_sign-mathematics)   |
+|    [:computer:](#computer-programming)     |    [:interrobang:](#interrobang-programs)|    [:lock:](#lock-cryptography)               |    [:heavy_division_sign:](#heavy_division_sign-mathematics)   |
 
 ## :pencil2: Cheat Sheet
 
