@@ -1,16 +1,13 @@
-# Welcome!
+# Programming References
 
-### :warning: Work... in... progress...
+## :warning: This webpage is a work in progress
+
 Thanks for stopping by. This is currently a work-in-progress, and will continuously have content added.
 
 <a href="https://github.com/gil-ryan"><img src="https://badgen.net/badge/github/gil-ryan/red?icon=github"></a><a href="https://gil-ryab.github.io"><img src="https://badgen.net/badge/personal-website/gil-ryan/red"></a>
 
-| &nbsp;Cheat Sheet &nbsp;               |  Cryptography   | &nbsp;Mathematics&nbsp;                      |Programming                                  | &nbsp;&nbsp;Programs&nbsp;&nbsp;        |&nbsp;&nbsp;&nbsp;Other&nbsp;&nbsp;&nbsp;|
-|----------------------------------------|----------------:|---------------------------------------------:|--------------------------------------------:|----------------------------------------:|----------------------------------------:|
-|    [:cloud:](#pencil2-cheat-sheet)     | [:lock:](#lock) |[:heavy_division_sign:](#heavy_division_sign) |     [:trollface:](#trollface)               |        [:interrobang:](#interrobang)    |      [:floppy_disk:](#floppy_disk)      |
-
-
 ## :pencil2: Cheat Sheet
+
 ```Java
 /*
 Definitely not sure if I initalized anything correctly
@@ -19,25 +16,42 @@ public static void (sting args[]){
 public class DidINameThisCorrectly{}
 }
 ```
+
 ```C++
 #include iostream
 using namespace std;
 int main(){
 return 0}
 ```
-## :lock: Cryptography
-*
-*
-*
-## :heavy_division_sign: Mathematics
-*
-*
-*
-## :trollface: Programming
-* 
-*
-*
+
+## :computer: Programming
+
+### Lower Level Languages
+
+* C
+* ARM
+* MIPS
+
+### Higher Level Languages
+
+* C++
+* Java
+* Python
+
 ## :interrobang: Programs
-*
-*
-*
+
+* \#
+* \#
+* \#
+
+## :lock: Cryptography
+
+* \#
+* \#
+* \#
+
+## :heavy_division_sign: Mathematics
+
+* \#
+* \#
+* \#
