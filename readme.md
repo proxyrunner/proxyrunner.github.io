@@ -5,9 +5,9 @@ Thanks for stopping by. This is currently a work-in-progress, and will continuou
 
 <a href="https://github.com/gil-ryan"><img src="https://badgen.net/badge/github/gil-ryan/red?icon=github"></a><a href="https://gil-ryab.github.io"><img src="https://badgen.net/badge/personal-website/gil-ryan/red"></a>
 
-| &nbsp;Cheat Sheet &nbsp; |  Cryptography  | &nbsp;Mathematics&nbsp;                      |Programming                                  | &nbsp;&nbsp;Programs&nbsp;&nbsp;        |&nbsp;&nbsp;&nbsp;Other&nbsp;&nbsp;&nbsp;|-----------------:|
-|--------------------------|----------------:|---------------------------------------------:|--------------------------------------------:|----------------------------------------:|----------------------------------------:|-----------------:|
-|----[:cloud:](#cloud)-----|-[:lock:](#lock)|[:heavy_division_sign:](#heavy_division_sign) | [:trollface:](#trollface)                   | [:interrobang:](#interrobang)           | [:floppy_disk:](#floppy_disk)           |[:coffee:](#other)|
+| &nbsp;Cheat Sheet &nbsp; |  Cryptography   | &nbsp;Mathematics&nbsp;                      |Programming                                  | &nbsp;&nbsp;Programs&nbsp;&nbsp;        |&nbsp;&nbsp;&nbsp;Other&nbsp;&nbsp;&nbsp;|
+|--------------------------|----------------:|---------------------------------------------:|--------------------------------------------:|----------------------------------------:|----------------------------------------:|
+|    [:cloud:](#cloud)     | [:lock:](#lock  |[:heavy_division_sign:](#heavy_division_sign) |     [:trollface:](#trollface)               |        [:interrobang:](#interrobang)    |      [:floppy_disk:](#floppy_disk)      |
 
 
 ## :pencil2: Cheat Sheet & References
