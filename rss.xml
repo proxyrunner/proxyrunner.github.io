@@ -9,6 +9,11 @@
     <title>Dynamic Multipoint Virtual Private Network - Next Hop Resolution Protocol</title>
     <link>https://gil-ryan.github.io/directory/lab/networking/ccnp/DMVPN.html</link>
     <description>DMVPN NHRP Configurations!</description>
+    <image>
+      <url>https://github.com/gil-ryan/gil-ryan.github.io/blob/master/directory/img/dmvpn.PNG</url>
+      <title>DMVPN Topology</title>
+      <link>https://gil-ryan.github.io/directory/lab/networking/ccnp/DMVPN.html</link>
+    </image> 
   </item>
 </channel>
 </rss> 
