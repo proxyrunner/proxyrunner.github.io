@@ -1,8 +1,8 @@
 # Programming References
 
-## :warning: This webpage is a work in progress
-
 Thanks for stopping by. This is currently a work-in-progress, and will continuously have content added.
+
+## :warning: This webpage is a work in progress
 
 <a href="https://github.com/gil-ryan"><img src="https://badgen.net/badge/github/gil-ryan/red?icon=github"></a><a href="https://gil-ryan.github.io"><img src="https://badgen.net/badge/personal-website/gil-ryan/red"></a><a href="https://brushstrokes.github.io"><img src="https://badgen.net/badge/academic-website/brushstrokes/blue"></a><a href="https://nw-grs.github.io"><img src="https://badgen.net/badge/professional-website/nw-grs/green"></a>
 
@@ -13,9 +13,6 @@ Thanks for stopping by. This is currently a work-in-progress, and will continuou
 ## :pencil2: Cheat Sheet
 
 ```Java
-/*
-Definitely not sure if I initalized anything correctly
-*/
 public static void (sting args[]){
 public class DidINameThisCorrectly{}
 }
@@ -32,7 +29,7 @@ return 0}
 
 ### Lower Level Languages
 
-* C
+* C [C Repo](https://github.com/gil-ryan/grs-c-public)
 * ARM
 * MIPS
 
