@@ -6,9 +6,9 @@ Thanks for stopping by. This is currently a work-in-progress, and will continuou
 
 &nbsp;<a href="https://github.com/gil-ryan"><img src="https://badgen.net/badge/github/gil-ryan/red?icon=github"></a><a href="https://gil-ryan.github.io"><img src="https://badgen.net/badge/personal-website/gil-ryan/red"></a><a href="https://brushstrokes.github.io"><img src="https://badgen.net/badge/academic-website/brushstrokes/blue"></a><a href="https://nw-grs.github.io"><img src="https://badgen.net/badge/professional-website/nw-grs/green"></a>&nbsp;
 
-     | &nbsp;Hardware&nbsp;| &nbsp;Software&nbsp;| &nbsp;Cryptography&nbsp;| &nbsp;Mathematics&nbsp;|
-     |:---:|:---:|:---:|:---:|
-     |&nbsp;[:computer:](#computer-Hardware)&nbsp;|&nbsp;[:interrobang:](#interrobang-Software)&nbsp;|&nbsp;[:lock:](#lock-cryptography)&nbsp;|&nbsp;[:heavy_division_sign:](#heavy_division_sign-mathematics)&nbsp;|&nbsp;[:satellite:](#satellite-networking)&nbsp;[
+| &nbsp;Hardware&nbsp;| &nbsp;Software&nbsp;| &nbsp;Cryptography&nbsp;| &nbsp;Mathematics&nbsp;|
+|:---:|:---:|:---:|:---:|
+|&nbsp;[:computer:](#computer-Hardware)&nbsp;|&nbsp;[:interrobang:](#interrobang-Software)&nbsp;|&nbsp;[:lock:](#lock-cryptography)&nbsp;|&nbsp;[:heavy_division_sign:](#heavy_division_sign-mathematics)&nbsp;|&nbsp;[:satellite:](#satellite-networking)&nbsp;
 
 ## :pencil2: Cheat Sheet
 
