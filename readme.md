@@ -4,12 +4,12 @@ Thanks for stopping by. This is currently a work-in-progress, and will continuou
 
 ## :warning: This webpage is a work in progress
 
-<a href="https://github.com/gil-ryan"><img src="https://badgen.net/badge/github/gil-ryan/red?icon=github"></a><a href="https://gil-ryan.github.io"><img src="https://badgen.net/badge/personal-website/gil-ryan/red"></a><a href="https://brushstrokes.github.io"><img src="https://badgen.net/badge/academic-website/brushstrokes/blue"></a><a href="https://nw-grs.github.io"><img src="https://badgen.net/badge/professional-website/nw-grs/green"></a>
-
+&nbsp;<a href="https://github.com/gil-ryan"><img src="https://badgen.net/badge/github/gil-ryan/red?icon=github"></a><a href="https://gil-ryan.github.io"><img src="https://badgen.net/badge/personal-website/gil-ryan/red"></a><a href="https://brushstrokes.github.io"><img src="https://badgen.net/badge/academic-website/brushstrokes/blue"></a><a href="https://nw-grs.github.io"><img src="https://badgen.net/badge/professional-website/nw-grs/green"></a>&nbsp;
+&nbsp;
 | &nbsp;Programming&nbsp;| &nbsp;Programs&nbsp;| &nbsp;Cryptography&nbsp;| &nbsp;Mathematics&nbsp;|
 |:---:|:---:|:---:|:---:|
 |&nbsp;[:computer:](#computer-programming)&nbsp;|&nbsp;[:interrobang:](#interrobang-programs)&nbsp;|&nbsp;[:lock:](#lock-cryptography)&nbsp;|&nbsp;[:heavy_division_sign:](#heavy_division_sign-mathematics)&nbsp;|
-
+&nbsp;
 ## :pencil2: Cheat Sheet
 
 ```Java
