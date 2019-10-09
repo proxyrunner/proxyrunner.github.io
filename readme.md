@@ -1,6 +1,6 @@
 # Programming References
 
-Thanks for stopping by. This is currently a work-in-progress, and will continuously have content added.
+Thanks for stopping by. This is currently a work-in-progress, and will continuously have content added. Please note my personal code is not explicitly released, and this repository does not contain it either. All public repositories consist of impromptu code, please contact me with any concerns.
 
 ## :warning: This webpage is a work in progress
 
@@ -29,15 +29,15 @@ return 0}
 
 ### Lower Level Languages
 
-* C [C Repo](https://github.com/gil-ryan/grs-c-public)
+* [C](https://github.com/gil-ryan/grs-c-public)
 * ARM
 * MIPS
 
 ### Higher Level Languages
 
-* C++
-* Java
-* Python
+* [C++](https://github.com/gil-ryan/grs-cpp-public)
+* [Java](https://github.com/gil-ryan/grs-java-public)
+* [Python](https://github.com/gil-ryan/grs-python-public)
 
 ## :interrobang: Programs
 
