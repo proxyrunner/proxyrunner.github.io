@@ -36,7 +36,14 @@ p{
     font-family: "Courier New"; 
 	  font-size:2em;
 }
-
+.base_resume{	
+  background: white;
+  margin: 2em; 
+  padding: 2em; 
+  border: 1em; 
+  font-family: "Bookman"; 
+  font-size:2em;
+}
 /* START CodePens 
 html,
 body {
