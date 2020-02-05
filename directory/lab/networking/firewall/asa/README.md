@@ -1,2 +1,0 @@
-# Cisco Adaptive Security Appliance
-
