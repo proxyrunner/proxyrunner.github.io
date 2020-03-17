@@ -101,6 +101,7 @@ table {
     border: 1em; 
     font-family: 'Helvetica';
     font-size: 1em;
+    width: 75%;
 }
 .base_resume{	
     margin: 150px;
