@@ -96,13 +96,14 @@ table {
     font-size:1.5em;
 }
 .base{	
+    width: 75%;
     margin: 150px;
     padding: 50px;
     border: 1em; 
     font-family: 'Helvetica';
     font-size: 1em;
-    width: 75%;
 }
+
 .base_resume{	
     margin: 150px;
     padding: 50px;
