@@ -43,7 +43,7 @@ time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;
+  vertical-align: baseline;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -88,17 +88,13 @@ table {
     vertical-align: baseline; 
 }
 /* BEGIN CLASSES */
-.code1{
-	font-family:'Courier New';
-	font-weight: 700;
-	font-size:1em;
-}
+
 .article{
     font-size:1.5em;
 }
 .base{	
-    width: 75%;
-    margin: 150px;
+    width: 60%;
+    margin: 100px;
     padding: 50px;
     border: 1em; 
     font-family: 'Helvetica';
@@ -123,13 +119,14 @@ table {
 figure {
 	display: inline-block;
 	margin: 25px;
-    padding: 25px;
+  padding: 25px;
+  background-color:  #ddd;
 }
 
 #bannerimage {
   width: 100%;
   background-image: url(./img/banner.png);
-  height: 200px;
+  height: 300px;
   background-color: #ccc;
   background-position: center;
 }
@@ -196,12 +193,6 @@ figure {
     margin-right: 16px;
     font-size: 17px;
   }
-  #bannerimage {
-  width: 100%;
-  background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
-  height: 405px;
-  background-color: purple;
-  background-position: center;
 }
   /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
   @media screen and (max-width: 600px) {
