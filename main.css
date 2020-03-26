@@ -1,4 +1,7 @@
 @import
+/*****************************************/
+/* BEGIN CSS */
+/*****************************************/
 /*
  * # id="one"
  * . class="two" 
@@ -19,7 +22,9 @@
 </style> 
 */
 
+/*****************************************/
 /* BEGIN CSS RESET */
+/*****************************************/
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -45,7 +50,7 @@ time, mark, audio, video {
 	font: inherit;
   vertical-align: baseline;
 }
-
+/*****************************************/
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -69,8 +74,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+/*****************************************/
 /* BEGIN IDs */
+/*****************************************/
+
 #quotation{
 	font-family:'Charm';
 }
@@ -87,8 +94,9 @@ table {
     font-size: 1em;
     vertical-align: baseline; 
 }
+/*****************************************/
 /* BEGIN CLASSES */
-
+/*****************************************/
 .article{
     font-size:1.5em;
 }
@@ -131,81 +139,78 @@ figure {
   background-position: center;
 }
 
-/*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*/
+/*****************************************/
 /* NAVIGATION BAR START */
-/* Add a black background color to the top navigation bar */
-.topnav {
-    overflow: hidden;
-    background-color: #e9e9e9;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: left;
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  /* Change the color of links on hover */
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  /* Style the "active" element to highlight the current page */
-  .topnav a.active {
-    background-color: #2196F3;
-    color: white;
-  }
-  
-  /* Style the search box inside the navigation bar */
-  .topnav input[type=text] {
-    float: right;
-    padding: 6px;
-    border: none;
-    margin-top: 8px;
-    margin-right: 16px;
-    font-size: 17px;
-  }
+/*****************************************/
+ /* Navbar container */
+ .navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
 }
-  /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
-  @media screen and (max-width: 600px) {
-    .topnav a, .topnav input[type=text] {
-      float: none;
-      display: block;
-      text-align: left;
-      width: 100%;
-      margin: 0;
-      padding: 14px;
-    }
-    .topnav input[type=text] {
-      border: 1px solid #ccc;
-    }
-  }
-  /* NAVIGATION BAR END */
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+} 
+/*****************************************/
+/* NAVIGATION BAR END */
+/*****************************************/
