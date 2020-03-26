@@ -126,6 +126,37 @@ figure {
     padding: 25px;
 }
 
+#bannerimage {
+  width: 100%;
+  background-image: url(./img/banner.png);
+  height: 200px;
+  background-color: #ccc;
+  background-position: center;
+}
+
+/*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
 /* NAVIGATION BAR START */
 /* Add a black background color to the top navigation bar */
 .topnav {
@@ -165,7 +196,13 @@ figure {
     margin-right: 16px;
     font-size: 17px;
   }
-  
+  #bannerimage {
+  width: 100%;
+  background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
+  height: 405px;
+  background-color: purple;
+  background-position: center;
+}
   /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
   @media screen and (max-width: 600px) {
     .topnav a, .topnav input[type=text] {
