@@ -1,3 +1,0 @@
-User-agent: *
-Sitemap: http://gil-ryan.github.io/sitemap.xml
-Disallow: /
