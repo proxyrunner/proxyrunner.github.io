@@ -97,9 +97,14 @@ table {
 /*****************************************/
 /* BEGIN CLASSES */
 /*****************************************/
+.aligncenter{
+  text-align: center;
+}
+
 .article{
     font-size:1.5em;
 }
+
 .base{	
     width: 60%;
     margin: 70px;
